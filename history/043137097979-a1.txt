@@ -1,4 +1,0 @@
-# Publication date: 2026-11-12T01:58:02Z
-# Run: 43137097979 (attempt 1), 2 verified configurations
-vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@156.229.167.109:8443?security=reality&type=tcp&packetEncoding=xudp&sni=github.githubassets.com&fp=chrome&sid=4ad2e4e660550e43&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA#%40SylphNet%20%7C%201405-08-20%20%23211
-vless://8bbde034-a0de-4e8c-8be3-b16a99689380@152.234.163.154:2096?type=xhttp&security=reality&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&sid=5b2e7a14c0d9f832&sni=amam.sprooty.fun&mode=auto#Бесплатный
