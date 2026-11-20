@@ -1,0 +1,22 @@
+# profile-title: Shahrah Manual Test (<10 Threat Score)
+# schema: shahrah-manual-test-public/1
+# manual-test: true
+# automatic-publication: false
+# not-a-round: true
+# run-id: 44790496918
+# test-time-utc: 2026-11-20T18:12:10.293418+00:00 (finished 2026-11-20T18:14:35.432032+00:00)
+# snapshot-generated-at: 2026-11-20T12:01:31.246000+00:00
+# snapshot-age-seconds: 22275.7
+# snapshot-stale-for-auto-publication: true
+# candidates-in-snapshot: 500
+# browser-visited: 8
+# accepted-total: 5 (ip-match=5, ip-different=0)
+# note: manual test only; score is the accepted 0..9 read from the real page in this run
+# note: uncertain, incomplete and score>=10 results are excluded
+# note: ip difference is not marked in names and is not presented as a match
+# note: order follows the snapshot; exact duplicates were dropped (kept first)
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@87.120.92.186:2087?mode=auto&path=%2Fv2%2Fsync%2F6e9367&security=reality&encryption=none&extra=%7B%22xmux%22%3A%20%7B%22cMaxReuseTimes%22%3A%200%2C%20%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22hKeepAlivePeriod%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%221800-3000%22%2C%20%22hMaxReusableSecs%22%3A%20%2210800-14400%22%7D%7D&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&fp=firefox&type=xhttp&sni=maps.blog-forme.ru&sid=3258252d44113e23#Europe%20-%20%F0%9F%87%A9%F0%9F%87%AA%20%28DE%29%20-%20Hessen%20-%20Kreisfreie%20Stadt%20Frankfurt%20am%20Main%20-%20%2805%20score%29
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@87.120.92.186:2087?security=reality&sni=maps.blog-forme.ru&fp=firefox&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&sid=3258252d44113e23&type=xhttp&mode=auto&host=maps.blog-forme.ru&path=%2Fv2%2Fsync%2F6e9367#Europe%20-%20%F0%9F%87%A9%F0%9F%87%AA%20%28DE%29%20-%20Hessen%20-%20Kreisfreie%20Stadt%20Frankfurt%20am%20Main%20-%20%2805%20score%29
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@178.17.52.31:2087?type=xhttp&security=reality&sni=maps.blog-forme.ru&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&sid=3258252d44113e23&fp=firefox&path=/v2/sync/6e9367&mode=auto&extra={#Europe%20-%20%F0%9F%87%A9%F0%9F%87%AA%20%28DE%29%20-%20Hessen%20-%20Kreisfreie%20Stadt%20Frankfurt%20am%20Main%20-%20%2805%20score%29
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@178.17.52.31:2087?fp=firefox&path=%2Fv2%2Fsync%2F6e9367&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&security=reality&sid=3258252d44113e23&sni=maps.blog-forme.ru&type=xhttp&encryption=none#Europe%20-%20%F0%9F%87%A9%F0%9F%87%AA%20%28DE%29%20-%20Hessen%20-%20Kreisfreie%20Stadt%20Frankfurt%20am%20Main%20-%20%2805%20score%29
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@188.225.57.185:443?encryption=none&type=grpc&security=reality&sni=flintstack.dev&pbk=4JggwEKhrkrIjQjO8kRX6iGvHQJixIFkiDOnE7zd3xE&fp=firefox#Europe%20-%20%F0%9F%87%B8%F0%9F%87%AA%20%28SE%29%20-%20Stockholm%20County%20-%20Stockholm%20-%20%2805%20score%29
